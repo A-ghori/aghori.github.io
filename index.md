@@ -1,8 +1,5 @@
 ---
----
 dg-publish: true
----
-layout: default
 title: "MAN A-GHORI(1)"
 ---
 
