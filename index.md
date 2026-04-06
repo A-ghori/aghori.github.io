@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MAN: A-GHORI(1)
+title: "MAN A-GHORI(1)"
 ---
 
 # NAME
